@@ -1,5 +1,7 @@
 ## LOADING AND UNLOADING CHARECTERISTICS OF MATERIALS
 
+This repository contains the code work that i did during my Bachelors as part of my project, wherein I attempted to predict the loading, unloading charecteristics of materials using their properties, which reduces the time to design the sample, experiment, and test the sample to find the stress-strain graph (loading, unloading charecteristics).
+
  The stress-strain graph of a material is a fundamental tool for understanding how the material respond to mechanical loading and is essential for the design and analysis of engineering structures. Existing method to plot or find the stree-strain graph (or relation) involves preparing a sample of the material and testing in UTM (Universal Testing Machine) or any other sophisticated mmachine. This is resource and time intensive, in order to test one sample, the sample have to be carefully cut or made in a specific shape that can be fit in the machine and then tested. One wrong mistake (in design or composition of the material) causes wastage of time and work. On succesfull testing, we will get a graph, which shows the variation of stress w.r.t strain in loading and unloading phase (which can be linear unlaonding or exponential unloading). The machine shows the stress and strain at different timesteps and also the stress-strain plot of these datapoints.
 
  Loading and Unloading can be of several kinds, in general, they follow 'Linear' or 'Exponential' plot.
