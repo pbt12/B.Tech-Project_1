@@ -1,4 +1,4 @@
-## LOADING AND UNLOADING CHARECTERISTICS OF MATERIALS
+## PREDICTION OF STRESS-STRAIN CHARECTERISTICS OF MATERIALS USING THEIR PROPERTIES
 
 This repository contains the code work that i did during my B.Tech as part of my project, wherein I attempted to predict the loading, unloading charecteristics of materials using their properties, which reduces the time to design the sample, experiment, and test the sample to find the stress-strain graph (loading, unloading charecteristics). (I cannot release the the data, and complete outputs of my work as it is confidential).
 
