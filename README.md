@@ -27,7 +27,7 @@ At the end, after vigorous and careful hyper parameter tuning, we were able to a
 
 Above image is the scatter plot of actual and predicted a_UL, b_UL, and c_UL (for exponential unloading scenario). We can see that the actual values are close to the predicted values. Apart from this, we trained another ANN to identify whether the unloading phase follows linear or exponential fashion, once we found out what type it follows, then we use the particular type ANN and get the plot or charecteristic.
 
-This is first phase of my project, wherein we try to predict the materials stress strain behaviour given its deformation properties. My second part of the project involves solving the inverse problem which is, I want to know the defromation behaviour of the material that follows a certain linear or exponential loading and unloading charecteristic. This is something new, till now I have deformation behaviour and I found its stress-strain equation, but now I have to solve the inverse problem. The codes for this inverse problem can be found here.
+This is first phase of my project, wherein we try to predict the materials stress strain behaviour given its deformation properties. My second part of the project involves solving the inverse problem which is, I want to know the defromation behaviour of the material that follows a certain linear or exponential loading and unloading charecteristic. This is something new, till now I have deformation behaviour and I found its stress-strain equation, but now I have to solve the inverse problem. The codes for this inverse problem can be found [here](https://github.com/pbt12/BTP-2-Predicting-deformation-behaviour-Using-XGBoost).
 
 
 
