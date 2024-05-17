@@ -1,6 +1,6 @@
 ## LOADING AND UNLOADING CHARECTERISTICS OF MATERIALS
 
-This repository contains the code work that i did during my Bachelors as part of my project, wherein I attempted to predict the loading, unloading charecteristics of materials using their properties, which reduces the time to design the sample, experiment, and test the sample to find the stress-strain graph (loading, unloading charecteristics). (I cannot release the the data, and complete outputs of my work as it is confidential).
+This repository contains the code work that i did during my B.Tech as part of my project, wherein I attempted to predict the loading, unloading charecteristics of materials using their properties, which reduces the time to design the sample, experiment, and test the sample to find the stress-strain graph (loading, unloading charecteristics). (I cannot release the the data, and complete outputs of my work as it is confidential).
 
 Upon applying load on materials, it breaks. If we keep on applying load from zero till before it breaks, and then un-load (reduce the load gradually) we get the variation of strain with stress, and the material might not retain its original shape and it deforms to some extent. The 4 properties "Loading Plasticity Value",   "Unloading Plasticity",  "Coefficient Plasticity Depth",  "Coefficient Adhesion" of the materials tells us about the deformation of the material. 
 
